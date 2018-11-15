@@ -1,0 +1,12 @@
+Package: sdmdata
+Title: Provide access to datasets for species distribution modelling
+Version: 0.0.0.9000
+Authors@R: person("Martin", "Ingram", email = "ingramm@student.unimelb.edu.au",
+	          role = c("aut", "cre"))
+Description: Easy access to different datasets.
+Depends: R (>= 3.5.1)
+Imports:
+	ggplot2
+License: GPL
+Encoding: UTF-8
+LazyData: true
